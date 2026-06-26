@@ -328,7 +328,7 @@ using **Microsoft Power BI Desktop**.
 
 # 👨‍💻 Author
 
-## Tejas Vish
+## Tejas Vishwakarma
 
 **Aspiring Data Analyst**
 
